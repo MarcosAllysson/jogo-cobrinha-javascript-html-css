@@ -65,7 +65,14 @@ function iniciarJogo(){
     for (let i = 1; i < snake.length; i++) {
         if (snake[0].x == snake[i].x && snake[0].y == snake[i].y){
             clearInterval(jogo);
-            alert("Vixe, game over!");
+            answer = prompt("Vixe, game over!\n Vou ser bonzinho, quer continuar jogando ainda (SIM ou NAO)?");
+            if (answer == 'SIM' || answer == 'sim'){
+                setInterval(iniciarJogo, 100);
+            }
+            // else{
+            //     clearInterval(jogo);
+            //     alert("Ok, se quiser reiniciar o jogo basta atualizar a página :D");
+            // }
         }        
     }
 
