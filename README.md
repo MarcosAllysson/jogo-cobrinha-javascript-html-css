@@ -1,4 +1,4 @@
-# Jobo Cobrinha com Linguagem JavaScrip
+# Jogo Cobrinha com Linguagem JavaScrip
 
 - Desenvolvimento de forma simples o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript.
 - Objetivo de aprender e reforçar os conhecimento de JS;
