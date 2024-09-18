@@ -1,6 +1,6 @@
-# Jogo Cobrinha com Linguagem JavaScript
+# Snake Game with JavaScript Language
 
-- Desenvolvimento de forma simples o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript.
-- Objetivo de aprender e reforçar os conhecimento de JS;
-- Criado baseado nos estudos com [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=Z0RHSJKM9G)
-- Veja o site [disponível no Github](https://marcosallysson.github.io/jogo-cobrinha-javascript-html-css/)
+- Simple development of the classic snake game using HTML, CSS and JavaScript.
+- The goal is to learn and reinforce JS knowledge;
+- Created based on studies with [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=Z0RHSJKM9G)
+- See the website [available on Github](https://marcosallysson.github.io/jogo-cobrinha-javascript-html-css/)
